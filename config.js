@@ -1,15 +1,15 @@
 module.exports = {
-  url: "https://notes.desktopofsamuel.com",
+  url: "https://dirtygirlsdevelopment.com",
   pathPrefix: "",
-  SITE_TITLE: "Obsidian Garden",
-  SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
+  SITE_TITLE: "Dirty Girls Development",
+  SITE_SUBTITLE: "Dirty Girls Development",
   SITE_DESCRIPTION:
-    "A Gatsby starter template to publish Obsidian vault for free",
-  KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
+    "",
+  KEYWORDS: "Dirty Girls Development, Software Development, Custom Software Solutions",
   HERO_TITLE:
-    "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "Designed by JUXT Design",
-  COPYRIGHT: "JUXT Design",
+    "The Dirty Girls Development is a software development company that specializes in creating custom software solutions for businesses.",
+  HERO_SUBTITLE: "Designed by LIM Consulting",
+  COPYRIGHT: "LIM Consulting",
   LOCALE: "en",
   POST_PER_PAGE: 6,
   MENU: [
@@ -37,11 +37,10 @@ module.exports = {
     },
     {
       label: "Github",
-      path: "https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden",
+      path: "https://github.com/Lucky-Irish-Media/dirtygirlsdevelopment",
     },
   ],
   AUTHOR: {
-    NAME: "JUXT Design",
-    TWITTER: "@juxtdesigncc",
+    NAME: "Dirty Girls Development",
   },
 };
